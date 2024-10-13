@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  8 OCT 2024 19:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  13 OCT 2024 22:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1907,7 +1907,7 @@ x
 2024/02/04 5.06c tkz-obj-eu-show.tex
 ) (c:/texlive/2024/texmf-dist/tex/latex/tkz-euclide/tkz-draw-eu-protractor.tex
 2024/02/04 5.06c tkz-obj-eu-protractor.tex
-))) (c:/texlive/2024/texmf-dist/tex/latex/fontawesome/fontawesome.sty
+)) (c:/texlive/2024/texmf-dist/tex/latex/fontawesome/fontawesome.sty
 Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
 
 (c:/texlive/2024/texmf-dist/tex/generic/iftex/ifxetex.sty
@@ -1919,16 +1919,54 @@ Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 (c:/texlive/2024/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.te
 x)
 (c:/texlive/2024/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pdftex.tex
-)) (../extra/defs2.tex
-\c@mychapter=\count482
-\c@dang=\count483
-\c@viduii=\count484
+))) (c:/texlive/2024/texmf-dist/tex/latex/circuitikz/circuitikz.sty
+Package: circuitikz 2024/02/09{} The CircuiTikz circuit drawing package version
+ 1.6.7
+
+(c:/texlive/2024/texmf-dist/tex/generic/circuitikz/pgfcirc.defines.tex
+\pgf@circ@count@a=\count482
+\pgf@circ@count@b=\count483
+\pgf@circ@count@c=\count484
+\pgf@circ@res@up=\dimen430
+\pgf@circ@res@down=\dimen431
+\pgf@circ@res@zero=\dimen432
+\pgf@circ@res@left=\dimen433
+\pgf@circ@res@right=\dimen434
+\pgf@circ@res@other=\dimen435
+\pgf@circ@res@step=\dimen436
+\pgf@circ@res@temp=\dimen437
+\pgf@circ@Rlen=\dimen438
+\pgf@circ@scaled@Rlen=\dimen439
+\pgfstartlinewidth=\dimen440
+)
+(c:/texlive/2024/texmf-dist/tex/generic/circuitikz/pgfcircutils.tex
+\ctikz@scratchbox=\box178
+)
+(c:/texlive/2024/texmf-dist/tex/generic/circuitikz/pgfcircpath.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/circuitikz/pgfcircshapes.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/circuitikz/pgfcircmonopoles.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/circuitikz/pgfcircbipoles.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/circuitikz/pgfcirctripoles.tex
+\pgf@circ@res@count=\count485
+)
+(c:/texlive/2024/texmf-dist/tex/generic/circuitikz/pgfcircquadpoles.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/circuitikz/pgfcircmultipoles.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/circuitikz/pgfcirclabel.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/circuitikz/pgfcircvoltage.tex
+\pgfcirc@labelshift=\dimen441
+)
+(c:/texlive/2024/texmf-dist/tex/generic/circuitikz/pgfcirccurrent.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/circuitikz/pgfcircflow.tex))
+(../extra/defs2.tex
+\c@mychapter=\count486
+\c@dang=\count487
+\c@viduii=\count488
 LaTeX Font Info:    Overwriting math alphabet `\bdx' in version `bold'
 (Font)                  U/BOONDOX-cal/m/n --> U/BOONDOX-cal/b/n on input line 6
 97.
-\c@thrPh=\count485
+\c@thrPh=\count489
 \saveparindent=\skip142
-\mytext=\box178
+\mytext=\box179
 )
 Package translations Info: No language package found. I am going to use `englis
 h' as default language. on input line 9.
@@ -1958,16 +1996,16 @@ LaTeX Font Info:    ... okay on input line 9.
 
 (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count486
-\scratchdimen=\dimen430
-\scratchbox=\box179
-\nofMPsegments=\count487
-\nofMParguments=\count488
+\scratchcounter=\count490
+\scratchdimen=\dimen442
+\scratchbox=\box180
+\nofMPsegments=\count491
+\nofMParguments=\count492
 \everyMPshowfont=\toks93
-\MPscratchCnt=\count489
-\MPscratchDim=\dimen431
-\MPnumerator=\count490
-\makeMPintoPDFobject=\count491
+\MPscratchCnt=\count493
+\MPscratchDim=\dimen443
+\MPnumerator=\count494
+\makeMPintoPDFobject=\count495
 \everyMPtoPDFconversion=\toks94
 ) (c:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1990,7 +2028,7 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
-\c@lstlisting=\count492
+\c@lstlisting=\count496
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -2046,55 +2084,99 @@ Package hyperref Info: Link coloring OFF on input line 9.
 Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.18} (current compat level: 1.13).
 
-(../data/D10-4-DA.tex
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 1.
+(../data/DGNLUV-DA.tex
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 2.
 
  (c:/texlive/2024/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Trying to load font information for U+wasy on input line 1.
-
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 2.
 
 (c:/texlive/2024/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
 
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
 
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (19.8452pt too wide) in paragraph at lines 1--9
-[][] 
+Overfull \hbox (2.8452pt too wide) in paragraph at lines 2--9
+ [] 
  []
 
-LaTeX Font Info:    Trying to load font information for T5+qcs on input line 13
+LaTeX Font Info:    Trying to load font information for T5+qcs on input line 12
 .
 (c:/texlive/2024/texmf-dist/tex/latex/tex-gyre/t5qcs.fd
 File: t5qcs.fd 2009/09/25 v1.2 font definition file for T5/qcs
-) (./ans/G10-4-TN.tex)
-(./ans/G10-4-TF.tex) (./ans/G10-4-TL.tex))
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 103.
-
-(c:/texlive/2024/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
-File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
-) [1
-
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/
-texmf-dist/fonts/enc/dvips/tex-gyre/q-t5.enc}{c:/texlive/2024/texmf-dist/fonts/
-enc/dvips/fontawesome/fontawesometwo.enc}] (../data/D10-4.tex
-Overfull \hbox (19.8452pt too wide) in paragraph at lines 1--9
+) (./ans/DGNL-TN.tex)
+(./ans/G11-4-TF.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--3
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--9
+Overfull \hbox (65.6346pt too wide) in paragraph at lines 1--3
+[][][][][] 
+ []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+[][]
+ []
+
+
+Overfull \hbox (65.6346pt too wide) in paragraph at lines 4--6
+[][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
+[][]
+ []
+
+
+Overfull \hbox (65.6346pt too wide) in paragraph at lines 7--9
+[][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+[][]
+ []
+
+
+Overfull \hbox (65.6346pt too wide) in paragraph at lines 10--12
+[][][][][] 
+ []
+
+) (./ans/DGNL-TL.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
+[][]
+ []
+
+))
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
+ut line 116.
+ (c:/texlive/2024/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
+File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
+)
+[1
+
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/
+texmf-dist/fonts/enc/dvips/tex-gyre/q-t5.enc}{c:/texlive/2024/texmf-dist/fonts/
+enc/dvips/fontawesome/fontawesometwo.enc}] (../data/DGNLUV.tex
+Overfull \hbox (2.8452pt too wide) in paragraph at lines 2--9
+ [] 
  []
 
 
@@ -2102,254 +2184,287 @@ pdfTeX warning (ext4): destination with the same identifier (name{section.0.1})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.9 ...nghiệm nhiều phương án lựa chọn}
+l.11 ...ghiệm nhiều phương án lựa chọn}
                                                   
-Output from handle ans going to ans/G10-4-TN.tex
+Output from handle ans going to ans/DGNL-TN.tex
 \ans@file=\write10
-\openout10 = `ans/G10-4-TN.tex'.
+\openout10 = `ans/DGNL-TN.tex'.
 
 Package hyperref Info: bookmark level for unknown ex defaults to 0 on input lin
-e 15.
+e 18.
 
-Overfull \hbox (1.4772pt too wide) in paragraph at lines 20--20
+Overfull \hbox (1.4772pt too wide) in paragraph at lines 29--29
 [][] 
  []
 
 
-Overfull \hbox (1.4772pt too wide) in paragraph at lines 30--30
+Overfull \hbox (1.4772pt too wide) in paragraph at lines 41--41
+[][] 
+ []
+
+<../figs/VN12-Y24-PH-SYL-017P-8.jpg, id=75, 187.902pt x 178.86826pt>
+File: ../figs/VN12-Y24-PH-SYL-017P-8.jpg Graphic file (type jpg)
+<use ../figs/VN12-Y24-PH-SYL-017P-8.jpg>
+Package pdftex.def Info: ../figs/VN12-Y24-PH-SYL-017P-8.jpg  used on input line
+ 48.
+(pdftex.def)             Requested size: 153.64644pt x 146.26624pt.
+
+Overfull \hbox (1.34036pt too wide) in paragraph at lines 54--54
+[][] 
+ []
+
+<../figs/VN11-Y23-PH-SYL-036-P-1.jpg, id=76, 238.491pt x 166.221pt>
+File: ../figs/VN11-Y23-PH-SYL-036-P-1.jpg Graphic file (type jpg)
+<use ../figs/VN11-Y23-PH-SYL-036-P-1.jpg>
+Package pdftex.def Info: ../figs/VN11-Y23-PH-SYL-036-P-1.jpg  used on input lin
+e 61.
+(pdftex.def)             Requested size: 153.64644pt x 107.08868pt.
+[2 <../figs/VN12-Y24-PH-SYL-017P-8.jpg>]
+Overfull \hbox (1.34036pt too wide) in paragraph at lines 67--67
 [][] 
  []
 
 
-Overfull \hbox (1.90292pt too wide) in paragraph at lines 40--40
+Overfull \hbox (1.4772pt too wide) in paragraph at lines 79--79
 [][] 
  []
 
 
-Overfull \hbox (1.4772pt too wide) in paragraph at lines 50--50
+Overfull \hbox (1.34036pt too wide) in paragraph at lines 91--91
 [][] 
  []
 
 
-Overfull \hbox (1.34036pt too wide) in paragraph at lines 60--60
+Overfull \hbox (2.03976pt too wide) in paragraph at lines 101--101
 [][] 
  []
 
-[2]
-Overfull \hbox (2.03976pt too wide) in paragraph at lines 75--75
-[][] 
- []
-
-
-Overfull \hbox (1.90292pt too wide) in paragraph at lines 91--91
+[3 <../figs/VN11-Y23-PH-SYL-036-P-1.jpg>]
+Overfull \hbox (1.90292pt too wide) in paragraph at lines 140--140
 [][] 
  []
 
 
-Overfull \hbox (1.4772pt too wide) in paragraph at lines 101--101
+Overfull \hbox (1.90292pt too wide) in paragraph at lines 157--157
+[][] 
+ []
+
+<../figs/BThatnhan-4.png, id=105, 433.62pt x 293.4162pt>
+File: ../figs/BThatnhan-4.png Graphic file (type png)
+<use ../figs/BThatnhan-4.png>
+Package pdftex.def Info: ../figs/BThatnhan-4.png  used on input line 167.
+(pdftex.def)             Requested size: 204.8567pt x 138.62198pt.
+
+Overfull \hbox (1.4772pt too wide) in paragraph at lines 175--175
+[][] 
+ []
+
+[4 <../figs/BThatnhan-4.png>]
+<../figs/VN12-Y24-PH-SYL-027P-3.jpg, id=112, 665.8476pt x 542.025pt>
+File: ../figs/VN12-Y24-PH-SYL-027P-3.jpg Graphic file (type jpg)
+<use ../figs/VN12-Y24-PH-SYL-027P-3.jpg>
+Package pdftex.def Info: ../figs/VN12-Y24-PH-SYL-027P-3.jpg  used on input line
+ 186.
+(pdftex.def)             Requested size: 358.50314pt x 291.829pt.
+
+Overfull \hbox (1.4772pt too wide) in paragraph at lines 192--192
 [][] 
  []
 
 
-Overfull \hbox (2.03976pt too wide) in paragraph at lines 147--147
+Overfull \hbox (2.03976pt too wide) in paragraph at lines 216--216
 [][] 
  []
 
-<../figs/D10-1-3.jpg, id=88, 649.9482pt x 405.6756pt>
-File: ../figs/D10-1-3.jpg Graphic file (type jpg)
-<use ../figs/D10-1-3.jpg>
-Package pdftex.def Info: ../figs/D10-1-3.jpg  used on input line 154.
-(pdftex.def)             Requested size: 204.8567pt x 127.86276pt.
-
-Overfull \hbox (1.90292pt too wide) in paragraph at lines 160--160
+[5 <../figs/VN12-Y24-PH-SYL-027P-3.jpg>]
+Overfull \hbox (1.34036pt too wide) in paragraph at lines 256--256
 [][] 
  []
 
-[3 <../figs/D10-1-3.jpg>]
-Overfull \hbox (1.90292pt too wide) in paragraph at lines 172--172
+LaTeX Font Info:    Font shape `U/BOONDOX-cal/m/n' will be
+(Font)              scaled to size 11.49753pt on input line 265.
+LaTeX Font Info:    Font shape `U/BOONDOX-cal/m/n' will be
+(Font)              scaled to size 8.40002pt on input line 265.
+LaTeX Font Info:    Font shape `U/BOONDOX-cal/m/n' will be
+(Font)              scaled to size 6.30002pt on input line 265.
+
+Overfull \hbox (1.4772pt too wide) in paragraph at lines 288--288
 [][] 
  []
 
-
-Overfull \hbox (1.90292pt too wide) in paragraph at lines 184--184
-[][] 
- []
-
-
-Overfull \hbox (1.4772pt too wide) in paragraph at lines 194--194
+[6{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+Overfull \hbox (1.34036pt too wide) in paragraph at lines 340--340
 [][] 
  []
 
 
-Overfull \hbox (1.34036pt too wide) in paragraph at lines 205--205
+Overfull \hbox (15.03519pt too wide) in paragraph at lines 376--377
+ []|[]| 
+ []
+
+
+Overfull \hbox (9.5481pt too wide) in paragraph at lines 403--404
+ []|[]| 
+ []
+
+
+Overfull \hbox (1.34036pt too wide) in paragraph at lines 414--414
+[][] 
+ []
+
+[7]
+Overfull \hbox (1.4772pt too wide) in paragraph at lines 435--435
+[][] 
+ []
+
+<../figs/VN12-Y24-PH-SYL-029P-1.jpg, id=138, 188.705pt x 85.82062pt>
+File: ../figs/VN12-Y24-PH-SYL-029P-1.jpg Graphic file (type jpg)
+<use ../figs/VN12-Y24-PH-SYL-029P-1.jpg>
+Package pdftex.def Info: ../figs/VN12-Y24-PH-SYL-029P-1.jpg  used on input line
+ 447.
+(pdftex.def)             Requested size: 204.8567pt x 93.16676pt.
+
+Overfull \hbox (2.03976pt too wide) in paragraph at lines 466--466
+[][] 
+ []
+
+<../figs/DGNL-2.jpg, id=139, 378.213pt x 159.4758pt>
+File: ../figs/DGNL-2.jpg Graphic file (type jpg)
+<use ../figs/DGNL-2.jpg>
+Package pdftex.def Info: ../figs/DGNL-2.jpg  used on input line 472.
+(pdftex.def)             Requested size: 256.0748pt x 107.9822pt.
+File: ../figs/DGNL-2.jpg Graphic file (type jpg)
+<use ../figs/DGNL-2.jpg>
+Package pdftex.def Info: ../figs/DGNL-2.jpg  used on input line 472.
+(pdftex.def)             Requested size: 128.0374pt x 53.98744pt.
+
+Underfull \vbox (badness 3690) has occurred while \output is active []
+
+ [8 <../figs/VN12-Y24-PH-SYL-029P-1.jpg>]
+Overfull \hbox (1.4772pt too wide) in paragraph at lines 478--478
 [][] 
  []
 
 
-Overfull \hbox (1.34036pt too wide) in paragraph at lines 217--217
+Overfull \hbox (1.34036pt too wide) in paragraph at lines 515--515
 [][] 
  []
 
 
-Overfull \hbox (1.4772pt too wide) in paragraph at lines 230--230
-[][] 
- []
+Underfull \vbox (badness 1019) has occurred while \output is active []
 
-[4]
-Overfull \hbox (2.03976pt too wide) in paragraph at lines 241--241
-[][] 
- []
-
-
-Overfull \hbox (1.90292pt too wide) in paragraph at lines 259--259
-[][] 
- []
-
-
+ [9 <../figs/DGNL-2.jpg>]
 pdfTeX warning (ext4): destination with the same identifier (name{section.0.2})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.267 \section{Câu trắc nghiệm đúng/sai}
+l.529 \section{Câu trắc nghiệm đúng/sai}
                                                
-Output from handle ans going to ans/G10-4-TF.tex
-\openout10 = `ans/G10-4-TF.tex'.
+Output from handle ans going to ans/G11-4-TF.tex
+\openout10 = `ans/G11-4-TF.tex'.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.1}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.273 N
-       hận định các phát biểu sau đây về tính chất chuyển ...
+l.535 	C
+        ho các phát biểu dưới đây. Phát biểu nào là phát bi�...
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.2}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.283 	M
-        ột bạn học sinh dùng volt kế để đo hiệu điện thế...
-<../figs/D10-2-3.jpg, id=114, 534.19576pt x 243.91125pt>
-File: ../figs/D10-2-3.jpg Graphic file (type jpg)
-<use ../figs/D10-2-3.jpg>
-Package pdftex.def Info: ../figs/D10-2-3.jpg  used on input line 285.
-(pdftex.def)             Requested size: 307.29288pt x 140.30742pt.
-[5]
+l.545 	M
+        ột vật nhỏ có khối lượng $\SI{100}{\gram}$ dao động �...
+
 pdfTeX warning (ext4): destination with the same identifier (name{ex.3}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.304 	T
-        rong một tình huống bóng đá, thủ môn xuất phát từ v�...
-[6 <../figs/D10-2-3.jpg>]
+l.555 	V
+        ật nhỏ dao động điều hòa trên trục $Ox$, vật đi t�...
+
 pdfTeX warning (ext4): destination with the same identifier (name{ex.4}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.352 K
-       hi xe chạy trên đường cao tốc, xe phải giữ khoảng các...
-<../figs/D10-1-4.jpg, id=135, 238.491pt x 121.983pt>
-File: ../figs/D10-1-4.jpg Graphic file (type jpg)
-<use ../figs/D10-1-4.jpg>
-Package pdftex.def Info: ../figs/D10-1-4.jpg  used on input line 354.
-(pdftex.def)             Requested size: 204.8567pt x 104.78233pt.
-[7{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}
-pdfTeX warning (ext4): destination with the same identifier (name{enumi.8}) has
- been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.387 	}
-        
-pdfTeX warning (ext4): destination with the same identifier (name{enumi.8}) has
- been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.387 	}
-         <../figs/D10-1-4.jpg>]
+l.565 	M
+        ột vật dao động điều hòa có phương trình $x=\xsi{4\co...
+<../figs/D11-004-3.jpg, id=154, 213.1965pt x 90.93974pt>
+File: ../figs/D11-004-3.jpg Graphic file (type jpg)
+<use ../figs/D11-004-3.jpg>
+Package pdftex.def Info: ../figs/D11-004-3.jpg  used on input line 572.
+(pdftex.def)             Requested size: 204.8567pt x 87.38577pt.
+File: ../figs/D11-004-3.jpg Graphic file (type jpg)
+<use ../figs/D11-004-3.jpg>
+Package pdftex.def Info: ../figs/D11-004-3.jpg  used on input line 572.
+(pdftex.def)             Requested size: 166.74992pt x 71.12973pt.
+[10]
 pdfTeX warning (ext4): destination with the same identifier (name{section.0.3})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.391 ...{Câu trắc nghiệm trả lời ngắn}
-                                                   \textit{Thí sinh trả l...
-Output from handle ans going to ans/G10-4-TL.tex
-\openout10 = `ans/G10-4-TL.tex'.
+l.577 ...{Câu trắc nghiệm trả lời ngắn}
+                                                  
+Output from handle ans going to ans/DGNL-TL.tex
+\openout10 = `ans/DGNL-TL.tex'.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.1}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.396 	M
-        ột nhóm học sinh đo được hiệu điện thế giữa hai �...
+l.583 	Ở
+           giai đoạn cuối của quá trình tiến hoá sao, một ngô...
 
 pdfTeX warning (ext4): destination with the same identifier (name{ex.2}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.408 	M
-        ột vận động viên chạy từ điểm xuất phát lên một...
-
+l.594 	Đ
+         ặt vào hai đầu cuộn sơ cấp của máy biến áp lí tư...
+[11 <../figs/D11-004-3.jpg>]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.3}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.416 	M
-        ột con bọ rùa bò đều trên các cạnh của một tấm v�...
+l.624 	M
+        ột lượng khí lí tưởng đơn nguyên tử chuyển từ tr�...
+<../figs/DGNL-3.jpg, id=176, 423.5022pt x 334.3692pt>
+File: ../figs/DGNL-3.jpg Graphic file (type jpg)
+<use ../figs/DGNL-3.jpg>
+Package pdftex.def Info: ../figs/DGNL-3.jpg  used on input line 688.
+(pdftex.def)             Requested size: 307.29288pt x 242.61809pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 421--421
-
- []
-
-[8
-pdfTeX warning (ext4): destination with the same identifier (name{enumi.8}) has
- been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.421 	}
-        ]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.4}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.425 M
-       ột vật chuyển động thẳng có đồ thị vận tốc - th�...
+l.688 ...ics[width=0.6\linewidth]{../figs/DGNL-3}}
+                                                  
+File: ../figs/DGNL-3.jpg Graphic file (type jpg)
+<use ../figs/DGNL-3.jpg>
+Package pdftex.def Info: ../figs/DGNL-3.jpg  used on input line 688.
+(pdftex.def)             Requested size: 184.3776pt x 145.57187pt.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
 pdfTeX warning (ext4): destination with the same identifier (name{ex.5}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.458 	M
-        ột người đi xe đạp với tốc độ $v_1=\SI{5}{\meter/\se...
-<../figs/D10-1-2.jpg, id=148, 594.0594pt x 167.6664pt>
-File: ../figs/D10-1-2.jpg Graphic file (type jpg)
-<use ../figs/D10-1-2.jpg>
-Package pdftex.def Info: ../figs/D10-1-2.jpg  used on input line 460.
-(pdftex.def)             Requested size: 256.0748pt x 72.27678pt.
-<../figs/D10-1-1.jpg, id=149, 423.5022pt x 334.3692pt>
-File: ../figs/D10-1-1.jpg Graphic file (type jpg)
-<use ../figs/D10-1-1.jpg>
-Package pdftex.def Info: ../figs/D10-1-1.jpg  used on input line 475.
-(pdftex.def)             Requested size: 307.29288pt x 242.61809pt.
+l.700 	M
+        ột dây kim loại PQ có thể trượt trên hai thanh ray nằm...
 
-pdfTeX warning (ext4): destination with the same identifier (name{ex.6}) has be
-en already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.475 ...cs[width=0.6\linewidth]{../figs/D10-1-1}}
-                                                  
-File: ../figs/D10-1-1.jpg Graphic file (type jpg)
-<use ../figs/D10-1-1.jpg>
-Package pdftex.def Info: ../figs/D10-1-1.jpg  used on input line 475.
-(pdftex.def)             Requested size: 184.3776pt x 145.57187pt.
+Underfull \vbox (badness 1917) has occurred while \output is active []
 
-Underfull \vbox (badness 4913) has occurred while \output is active []
-
- [9 <../figs/D10-1-2.jpg>])
+ [13 <../figs/DGNL-3.jpg>])
 \tf@thm=\write11
 \openout11 = `"Mid SemI2324.thm"'.
 
- [10 <../figs/D10-1-1.jpg>] (./Mid SemI2324.aux)
+ [14] (./Mid SemI2324.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -2358,31 +2473,35 @@ Package rerunfilecheck Info: File `"Mid SemI2324".out' has not changed.
 (rerunfilecheck)             Checksum: 4F7AC2A620D9E0E9FFC5EBDD221706DA;805.
  ) 
 Here is how much of TeX's memory you used:
- 57375 strings out of 474116
- 1344088 string characters out of 5747718
- 2252144 words of memory out of 5000000
- 78601 multiletter control sequences out of 15000+600000
- 577038 words of font info for 85 fonts, out of 8000000 for 9000
+ 74257 strings out of 474116
+ 1857707 string characters out of 5747718
+ 2996902 words of memory out of 5000000
+ 95428 multiletter control sequences out of 15000+600000
+ 578052 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,17n,121p,1208b,2531s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,18n,121p,1208b,2703s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c
 :/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive
 /2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmsy8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symb
-ols/msam10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/tex-gyre/qcsr.pfb
-><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texli
-ve/2024/texmf-dist/fonts/type1/vntex/vnr/vnbx10.pfb><c:/texlive/2024/texmf-dist
-/fonts/type1/vntex/vnr/vnbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex
-/vnr/vnbxti10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb><
-c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnr8.pfb><c:/texlive/2024/texm
-f-dist/fonts/type1/vntex/vnr/vnti10.pfb>
-Output written on "Mid SemI2324.pdf" (10 pages, 578047 bytes).
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c
+:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/
+2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2024
+/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2024/tex
+mf-dist/fonts/type1/public/tex-gyre/qcsr.pfb><c:/texlive/2024/texmf-dist/fonts/
+type1/public/cm-super/sfrm1095.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vnte
+x/vnr/vnbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnbxti10.pfb
+><c:/texlive/2024/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/texlive/2024/t
+exmf-dist/fonts/type1/vntex/vnr/vnr8.pfb><c:/texlive/2024/texmf-dist/fonts/type
+1/vntex/vnr/vnti10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/boondox/z
+xxrw8a.pfb>
+Output written on "Mid SemI2324.pdf" (14 pages, 767342 bytes).
 PDF statistics:
- 242 PDF objects out of 1000 (max. 8388607)
- 167 compressed objects within 2 object streams
- 45 named destinations out of 1000 (max. 500000)
- 230 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 294 PDF objects out of 1000 (max. 8388607)
+ 203 compressed objects within 3 object streams
+ 52 named destinations out of 1000 (max. 500000)
+ 245 words of extra memory for PDF output out of 10000 (max. 10000000)
 
